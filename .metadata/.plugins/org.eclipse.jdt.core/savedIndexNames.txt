@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\2_MyPerso\JFS_Task5_JavaAdvance\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3453313424.index
+3790408561.index
